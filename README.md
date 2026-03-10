@@ -1,8 +1,6 @@
 <div align="center">
 <br/>
-
-<img src="logo.svg" alt="Ledger" width="380"/>
-
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MjAgMTEwIiB3aWR0aD0iNDIwIiBoZWlnaHQ9IjExMCI+CgogIDwhLS0g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCiAgICAgICBJQ09OIE1BUksg4oCUIFN0eWxpemVkICJMIiBmcm9tIDMgYmxvY2tzCiAgICAgICBOZWdhdGl2ZSBnYXBzID0gZGF0YWJhc2Ugcm93cwogICAgICAgVG9wIGJsb2NrIGNyb3duZWQgd2l0aCB1cHdhcmQgYXJyb3cgPSBBSSBwcm9ncmVzcwogIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAtLT4KCiAgPCEtLSBVcHdhcmQgYXJyb3cgKGN5YW4pIOKAlCBzaXRzIGFib3ZlIHRvcCBibG9jaywgc3ltYm9saXNlcyB0cmFpbmluZyBwcm9ncmVzc2lvbiAtLT4KICA8cG9seWdvbiBwb2ludHM9IjI2LDYgNTAsMzQgMiwzNCIgZmlsbD0iIzAwRTVGRiIvPgoKICA8IS0tIFRvcCBibG9jayDigJQgbGVmdC1hbGlnbmVkICh2ZXJ0aWNhbCBzdHJva2Ugb2YgTCkgLS0+CiAgPHJlY3QgeD0iMiIgeT0iMzgiIHdpZHRoPSI0OCIgaGVpZ2h0PSIxOSIgcng9IjMiIGZpbGw9IiMzMzY3OTEiLz4KCiAgPCEtLSBSb3cgZ2FwIOKAlCBuZWdhdGl2ZSBzcGFjZSA9IGRhdGFiYXNlIHJvdyBzZXBhcmF0b3IgLS0+CgogIDwhLS0gTWlkZGxlIGJsb2NrIOKAlCBsZWZ0LWFsaWduZWQgKHZlcnRpY2FsIHN0cm9rZSBvZiBMKSAtLT4KICA8cmVjdCB4PSIyIiB5PSI2MyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjE5IiByeD0iMyIgZmlsbD0iIzMzNjc5MSIvPgoKICA8IS0tIFJvdyBnYXAgLS0+CgogIDwhLS0gQm90dG9tIGJsb2NrIOKAlCB3aWRlIChob3Jpem9udGFsIHN0cm9rZSBvZiBMLCBmb3JtcyB0aGUgYmFzZSkgLS0+CiAgPHJlY3QgeD0iMiIgeT0iODgiIHdpZHRoPSI4OCIgaGVpZ2h0PSIxOSIgcng9IjMiIGZpbGw9IiMzMzY3OTEiLz4KCiAgPCEtLSBTdWJ0bGUgY3lhbiBhY2NlbnQgYmFyIG9uIHJpZ2h0IGVkZ2Ugb2YgYm90dG9tIGJsb2NrIOKAlCB0aWVzIGljb24gdG8gYXJyb3cgLS0+CiAgPHJlY3QgeD0iODIiIHk9Ijg4IiB3aWR0aD0iOCIgaGVpZ2h0PSIxOSIgcng9IjMiIGZpbGw9IiMwMEU1RkYiLz4KCiAgPCEtLSDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKICAgICAgIFdPUkRNQVJLIOKAlCBMRURHRVIKICAgICAgIEdlb21ldHJpYyBib2xkIGNhcHMsIHRpZ2h0IHRyYWNraW5nCiAg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIC0tPgogIDx0ZXh0CiAgICB4PSIxMTIiCiAgICB5PSI5MCIKICAgIGZvbnQtZmFtaWx5PSInVHJlYnVjaGV0IE1TJywgJ0dpbGwgU2FucyBNVCcsICdDZW50dXJ5IEdvdGhpYycsIHNhbnMtc2VyaWYiCiAgICBmb250LXNpemU9IjcyIgogICAgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICBsZXR0ZXItc3BhY2luZz0iMyIKICAgIGZpbGw9IiMwRjFCMkQiCiAgPkxFREdFUjwvdGV4dD4KCiAgPCEtLSBDeWFuIHVuZGVybGluZSBhY2NlbnQgYmVuZWF0aCB3b3JkbWFyayDigJQgZ3JvdW5kcyB0aGUgdHlwZSAtLT4KICA8cmVjdCB4PSIxMTIiIHk9Ijk4IiB3aWR0aD0iMjk1IiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiMwMEU1RkYiIG9wYWNpdHk9IjAuNyIvPgoKPC9zdmc+Cg==" alt="Ledger" width="380"/>
 <br/><br/>
 
 *Persistent memory infrastructure for AI experimentation.*
@@ -17,131 +15,85 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-336791?style=flat-square)](LICENSE)
 
 <br/>
-
 </div>
 
 ---
 
-## What is Ledger?
+## Overview
 
-AI experiments leave a trail — configurations, training runs, loss curves, checkpoints, datasets. That trail almost always ends up as a mess of flat files, disconnected logs, and half-remembered scripts.
+Ledger is a relational database platform for recording and analyzing the complete lifecycle of AI experiments — models, training runs, execution steps, metrics, and datasets — through a unified web interface.
 
-**Ledger is the structured layer between your experiments and amnesia.**
-
-It captures the complete lifecycle of AI experimentation inside a relational database and exposes it through a clean web interface — so every run is reproducible, every metric is queryable, and no experiment is ever lost.
+Modern AI workflows generate large volumes of disconnected records scattered across logs and scripts. Ledger centralizes this data into a structured schema, making experiment history queryable and reproducible.
 
 ---
 
-## Why Relational?
+## Data Model
 
-| Approach | Problem |
+```
+MODEL
+  └── MODEL_VERSION
+        └── EXPERIMENT
+              └── TRAINING_RUN
+                    ├── EXECUTION_STEP
+                    │     └── METRIC_SCALAR
+                    ├── CHECKPOINT
+                    └── RUN_DATASET_MAP
+                          └── DATASET
+```
+
+| Entity | Description |
 |---|---|
-| 📁 Log files | Unstructured. Unsearchable. Lost after a week. |
-| 🗒️ Spreadsheets | No relationships. Breaks at scale. |
-| 🧠 MLflow / W&B | Heavy. Opinionated. Black boxes. |
-| ✅ **Ledger** | Transparent relational schema. Fully queryable. You own the data. |
-
-The core insight: **an AI experiment is a tree of structured facts**, not a stream of text.
-
----
-
-## Experiment Lifecycle Model
-
-Every AI experiment maps onto Ledger's data model:
-
-```
-┌─────────────┐
-│    MODEL    │  ←  What architecture are you training?
-└──────┬──────┘
-       │ has many
-┌──────▼──────────┐
-│  MODEL_VERSION  │  ←  Which iteration? What hyperparams?
-└──────┬──────────┘
-       │ belongs to
-┌──────▼──────────┐
-│   EXPERIMENT    │  ←  What hypothesis are you testing?
-└──────┬──────────┘
-       │ generates
-┌──────▼──────────┐
-│  TRAINING_RUN   │  ←  A single training session
-└──────┬──────────┘
-       │ produces
-   ┌───┴──────────────────┐
-   │                      │
-┌──▼────────────┐  ┌──────▼──────┐
-│EXECUTION_STEP │  │  CHECKPOINT │  ←  Progress + Saved states
-└──────┬────────┘  └─────────────┘
-       │ emits
-┌──────▼──────────┐
-│  METRIC_SCALAR  │  ←  Loss, accuracy, F1 — anything numeric
-└─────────────────┘
-
-       + DATASET ──► RUN_DATASET_MAP  ←  What data was used?
-```
-
-Every node is a first-class database record — queryable across the entire history.
+| MODEL | AI model metadata |
+| MODEL_VERSION | Architecture versions and hyperparameter configs |
+| EXPERIMENT | Research hypothesis linked to a model version |
+| TRAINING_RUN | A single training session |
+| EXECUTION_STEP | Step-level progress log during training |
+| METRIC_SCALAR | Numeric metrics (loss, accuracy, F1) per step |
+| CHECKPOINT | Model state snapshots saved during training |
+| DATASET | Dataset metadata |
+| RUN_DATASET_MAP | Dataset-to-run associations |
 
 ---
 
-## System Architecture
+## Architecture
 
 ```
-              ╔══════════════════════════════╗
-              ║        React Frontend         ║
-              ║   Dashboard · Registry ·      ║
-              ║   Metrics Explorer · Timeline ║
-              ╚═════════════╤════════════════╝
-                            │  REST / JSON
-              ╔═════════════▼════════════════╗
-              ║       FastAPI Backend          ║
-              ║   Route Handlers · ORM ·       ║
-              ║   Query Engine                 ║
-              ╚═════════════╤════════════════╝
-                            │  SQL
-              ╔═════════════▼════════════════╗
-              ║      PostgreSQL Database       ║
-              ║   Models · Experiments ·       ║
-              ║   Runs · Metrics · Datasets    ║
-              ╚══════════════════════════════╝
+  React Frontend
+  (Dashboard, Registry, Metrics Explorer, Timeline)
+         |
+      REST/JSON
+         |
+  FastAPI Backend
+  (Route Handlers, ORM, Query Engine)
+         |
+        SQL
+         |
+  PostgreSQL Database
 ```
-
-No external services. No cloud lock-in. Everything runs locally.
 
 ---
 
-## Interface Modules
+## Interface
 
-### 📊 Dashboard
-High-level snapshot of the database — models, active experiments, training runs, datasets.
+**Dashboard** — aggregate statistics across the experiment database.
 
-### 🗄️ Model Registry
-Central catalog of all AI models and version histories. Browse architectures, compare versions, track hyperparameter evolution.
+**Model Registry** — browse models, versions, and architecture configurations.
 
-### 🧪 Experiment Manager
-Define research hypotheses linked to specific model versions. Each experiment can spawn multiple training runs for side-by-side comparison.
+**Experiment Manager** — define experiments linked to model versions; compare multiple training runs per experiment.
 
-### 🏃 Training Runs
-Per-session records — configuration snapshots, status tracking (`queued → running → completed → failed`), timestamps and duration.
+**Training Runs** — per-session records with configuration snapshots and status tracking (`queued → running → completed → failed`).
 
-### 📈 Metrics Explorer
-Chart.js visualizations of training dynamics. Query any metric across any step range — loss curves, accuracy plots, custom scalars.
+**Metrics Explorer** — Chart.js visualizations of metric progression across training steps.
 
-### 🕐 Execution Timeline
-Step-by-step reconstruction of training progress. Identify exactly where training diverged, stalled, or spiked.
+**Execution Timeline** — step-by-step reconstruction of training progress for any run.
 
-### 📦 Dataset Registry
-Metadata store for every dataset used in training, with full lineage tracking across experiments and runs.
+**Dataset Registry** — dataset metadata with lineage tracking across experiments and runs.
 
 ---
 
 ## Query Examples
 
-**Count all registered experiments**
-```sql
-SELECT COUNT(*) FROM EXPERIMENT;
-```
-
-**Rank models by number of training runs**
+**Training runs per model**
 ```sql
 SELECT m.name, COUNT(tr.runid) AS total_runs
 FROM MODEL m
@@ -151,19 +103,16 @@ GROUP BY m.name
 ORDER BY total_runs DESC;
 ```
 
-**Reconstruct the loss curve for a specific run**
+**Loss curve for a specific run**
 ```sql
-SELECT
-  es.globalstepnumber  AS step,
-  ms.metricvalue       AS loss
+SELECT es.globalstepnumber AS step, ms.metricvalue AS loss
 FROM EXECUTION_STEP es
 JOIN METRIC_SCALAR ms ON es.stepid = ms.stepid
-WHERE ms.metricname = 'loss'
-  AND es.runid = :run_id
+WHERE ms.metricname = 'loss' AND es.runid = :run_id
 ORDER BY es.globalstepnumber;
 ```
 
-**Find all runs using a specific dataset**
+**All runs using a specific dataset**
 ```sql
 SELECT e.name, tr.runid, d.datasetname
 FROM EXPERIMENT e
@@ -179,39 +128,31 @@ WHERE d.datasetname = :target_dataset;
 
 | Layer | Technology |
 |---|---|
-| Frontend | React + Chart.js |
-| Backend | Python + FastAPI |
+| Frontend | React, Chart.js |
+| Backend | Python, FastAPI |
 | Database | PostgreSQL |
 
 ---
 
-## Getting Started
+## Setup
 
-**Clone**
 ```bash
 git clone https://github.com/yourusername/ledger
 cd ledger
 ```
 
-**Configure the database**
 ```bash
 export DATABASE_URL="postgresql://user:password@localhost:5432/ledger"
 psql -d ledger -f schema.sql
 ```
 
-**Start the backend**
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
-# → http://localhost:8000
 ```
 
-**Start the frontend**
 ```bash
-cd frontend
-npm install
-npm run dev
-# → http://localhost:5173
+cd frontend && npm install && npm run dev
 ```
 
 ---
@@ -221,44 +162,22 @@ npm run dev
 ```
 ledger/
 ├── backend/
-│   ├── main.py              # FastAPI entrypoint
-│   ├── models/              # SQLAlchemy ORM models
-│   ├── routes/              # API route handlers
-│   └── database.py          # DB connection config
+│   ├── main.py
+│   ├── models/
+│   ├── routes/
+│   └── database.py
 ├── frontend/
-│   ├── src/
-│   │   ├── pages/           # Dashboard, Registry, Explorer
-│   │   ├── components/      # Reusable UI components
-│   │   └── api/             # Backend API calls
-│   └── package.json
-├── logo.svg                 # Project logo
-├── schema.sql               # Full database schema
+│   └── src/
+│       ├── pages/
+│       ├── components/
+│       └── api/
+├── schema.sql
 └── README.md
 ```
 
 ---
 
-## Motivation
-
-Reproducibility is the foundation of science. In AI research, it's also the hardest thing to achieve.
-
-Ledger was built from a simple frustration: **experiment data should not live in your head, your terminal history, or a folder called `final_final_v3`.**
-
-By treating AI experiments as structured, relational data, Ledger enables questions that flat logs simply can't answer — across models, across versions, across time.
-
----
-
 ## Author
 
-**Kumaran Chandrashekar**  
-B.Tech Computer Science (Data Science) · VIT Chennai
-
----
-
-<div align="center">
-<br/>
-<img src="logo.svg" alt="Ledger" width="220"/>
-<br/><br/>
-<sub>Structured memory for artificial intelligence experiments.</sub>
-<br/><br/>
-</div>
+**Kumaran Chandrashekar**
+B.Tech Computer Science (Data Science), VIT Chennai
