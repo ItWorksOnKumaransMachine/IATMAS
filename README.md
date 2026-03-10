@@ -1,23 +1,13 @@
-<div align="center">
-<br/>
+# LEDGER
 
-<img src="logo.svg" alt="Ledger" width="80"/>
-
-<h1>LEDGER</h1>
-
-<p><em>Persistent memory infrastructure for AI experimentation.</em></p>
-
-<br/>
+> Persistent memory infrastructure for AI experimentation.
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00E5FF)](https://react.dev/)
-[![Python](https://img.shields.io/badge/Python-0F1B2D?style=flat-square&logo=python&logoColor=00E5FF)](https://python.org/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-0F1B2D?style=flat-square&logo=chartdotjs&logoColor=00E5FF)](https://www.chartjs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-336791?style=flat-square)](LICENSE)
-
-<br/>
-</div>
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 ---
 
@@ -45,15 +35,15 @@ MODEL
 
 | Entity | Description |
 |---|---|
-| MODEL | AI model metadata |
-| MODEL_VERSION | Architecture versions and hyperparameter configs |
-| EXPERIMENT | Research hypothesis linked to a model version |
-| TRAINING_RUN | A single training session |
-| EXECUTION_STEP | Step-level progress log during training |
-| METRIC_SCALAR | Numeric metrics (loss, accuracy, F1) per step |
-| CHECKPOINT | Model state snapshots saved during training |
-| DATASET | Dataset metadata |
-| RUN_DATASET_MAP | Dataset-to-run associations |
+| `MODEL` | AI model metadata |
+| `MODEL_VERSION` | Architecture versions and hyperparameter configs |
+| `EXPERIMENT` | Research hypothesis linked to a model version |
+| `TRAINING_RUN` | A single training session |
+| `EXECUTION_STEP` | Step-level progress log during training |
+| `METRIC_SCALAR` | Numeric metrics (loss, accuracy, F1) per step |
+| `CHECKPOINT` | Model state snapshots saved during training |
+| `DATASET` | Dataset metadata |
+| `RUN_DATASET_MAP` | Dataset-to-run associations |
 
 ---
 
@@ -77,19 +67,15 @@ MODEL
 
 ## Interface
 
-**Dashboard** — aggregate statistics across the experiment database.
-
-**Model Registry** — browse models, versions, and architecture configurations.
-
-**Experiment Manager** — define experiments linked to model versions; compare multiple training runs per experiment.
-
-**Training Runs** — per-session records with configuration snapshots and status tracking (`queued → running → completed → failed`).
-
-**Metrics Explorer** — Chart.js visualizations of metric progression across training steps.
-
-**Execution Timeline** — step-by-step reconstruction of training progress for any run.
-
-**Dataset Registry** — dataset metadata with lineage tracking across experiments and runs.
+| Module | Description |
+|---|---|
+| Dashboard | Aggregate statistics across the experiment database |
+| Model Registry | Browse models, versions, and architecture configurations |
+| Experiment Manager | Define experiments linked to model versions; compare training runs |
+| Training Runs | Per-session records with config snapshots and status tracking |
+| Metrics Explorer | Chart.js visualizations of metric progression across steps |
+| Execution Timeline | Step-by-step reconstruction of training progress for any run |
+| Dataset Registry | Dataset metadata with lineage tracking across experiments and runs |
 
 ---
 
@@ -172,7 +158,6 @@ ledger/
 │       ├── pages/
 │       ├── components/
 │       └── api/
-├── logo.svg
 ├── schema.sql
 └── README.md
 ```
