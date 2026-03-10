@@ -1,7 +1,5 @@
 # LEDGER
 
-> Persistent memory infrastructure for AI experimentation.
-
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -12,8 +10,6 @@
 ---
 
 ## Overview
-
-Ledger is a relational database platform for recording and analyzing the complete lifecycle of AI experiments — models, training runs, execution steps, metrics, and datasets — through a unified web interface.
 
 Modern AI workflows generate large volumes of disconnected records scattered across logs and scripts. Ledger centralizes this data into a structured schema, making experiment history queryable and reproducible.
 
