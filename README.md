@@ -1,4 +1,4 @@
-# Intelligent AI Training Memory and Analytics System
+# AI Training Memory and Analytics System
 
 ## Overview
 
