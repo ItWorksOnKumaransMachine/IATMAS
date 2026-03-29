@@ -1,4 +1,4 @@
-# 🔴 IDKSQL
+#  IDKSQL
 
 ### *Ask your data anything.*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **IDKSQL** is a full-stack system that allows users to interact with a PostgreSQL database using plain English.
 
@@ -24,34 +24,25 @@ Instead of writing SQL queries, users can simply type:
 
 ---
 
-## 💡 Why IDKSQL?
 
-Most database systems require technical knowledge of SQL.
-IDKSQL removes that barrier.
+##  Features
 
-> ❌ Write SQL
-> ✅ Just ask
-
----
-
-## 🔥 Features
-
-* 🧠 **Natural Language → SQL (offline using LLM)**
-* 🗄️ **Full CRUD support**
+*  **Natural Language → SQL (offline using LLM)**
+*  **Full CRUD support**
 
   * SELECT (Read)
   * INSERT (Create)
   * UPDATE (Modify)
   * DELETE (Remove)
-* ⚡ **Real-time query execution on PostgreSQL**
-* 🧾 **Query explanation in plain English**
-* 💬 **Chat-based interface with memory**
-* 🔒 **Offline-first (no external APIs required)**
-* 🛡️ **SQL validation & safety checks**
+*  **Real-time query execution on PostgreSQL**
+*  **Query explanation in plain English**
+*  **Chat-based interface with memory**
+*  **Offline-first (no external APIs required)**
+*  **SQL validation & safety checks**
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -73,7 +64,7 @@ IDKSQL removes that barrier.
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 ```text
 User (Natural Language)
@@ -95,7 +86,7 @@ Frontend Display
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repo
 
@@ -133,7 +124,7 @@ npm install
 ### 4. Install Ollama
 
 Download and install:
-👉 https://ollama.com
+ https://ollama.com
 
 Run model:
 
@@ -159,7 +150,7 @@ npm run dev
 
 ---
 
-## 🧪 Example Queries
+##  Example Queries
 
 * “Show all training runs”
 * “Find runs where loss > 1”
@@ -169,7 +160,7 @@ npm run dev
 
 ---
 
-## ⚠️ Safety Features
+##  Safety Features
 
 * Blocks dangerous queries (DROP, ALTER, TRUNCATE)
 * Requires conditions for UPDATE/DELETE
@@ -177,7 +168,7 @@ npm run dev
 
 ---
 
-## 🎯 Project Structure
+##  Project Structure
 
 ```text
 IDKSQL/
@@ -200,7 +191,7 @@ IDKSQL/
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User enters natural language query
 2. Backend sends query to local LLM (Ollama)
@@ -211,7 +202,7 @@ IDKSQL/
 
 ---
 
-## 🚧 Limitations
+##  Limitations
 
 * Accuracy depends on prompt quality and schema clarity
 * Complex queries may require refinement
@@ -219,7 +210,7 @@ IDKSQL/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Query suggestions / autocomplete
 * Visual query builder
@@ -228,13 +219,13 @@ IDKSQL/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Built by [Your Name]
 
 ---
 
-## 💣 Final Note
+##  Final Note
 
 IDKSQL is not just a database project —
 it’s a step toward the future where:
